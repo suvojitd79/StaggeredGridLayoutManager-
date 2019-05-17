@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exoplayer</string>
+
+    <string name="API_KEY">kskskxxxxxxxxxxxxxxxxxYOURAPIKEYxxxxxxxxxxxxxxx</string>
+
+    <string name="BASE_URL">https://api.unsplash.com/</string>
+</resources>
